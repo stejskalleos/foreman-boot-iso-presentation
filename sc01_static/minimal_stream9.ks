@@ -19,7 +19,3 @@ reboot
 %packages
 @^server-product-environment
 %end
-
-# Post-installation script
-%post
-%end

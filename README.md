@@ -61,3 +61,4 @@ Where is my directory?
 ## Links
 
 - https://anaconda-installer.readthedocs.io/en/latest/index.html
+- https://weldr.io/lorax/mkksiso.html
